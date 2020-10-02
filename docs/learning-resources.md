@@ -11,6 +11,7 @@ has_toc: false
 - [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide) by [@DrBoolean](https://github.com/DrBoolean)
 - [The State monad](https://paulgray.net/the-state-monad/)
 - [Approximating Haskell's `do` syntax in TypeScript](https://paulgray.net/do-syntax-in-typescript/)
+- [Practical Guide to Fp‑ts](https://rlee.dev/writing/practical-guide-to-fp-ts-part-1)
 
 ## Getting started with fp-ts series
 
